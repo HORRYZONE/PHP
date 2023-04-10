@@ -9,6 +9,7 @@
 
 ## How to Run Laravel
 
+- [right-click to folder dir ](C:\xampp\htdocs\WebApp\laravel >> window terminal).
 - [go to this link for reference : ](https://laravel.com/docs/9.x/installation#getting-started-on-windows).
 - [run cd [filename] ](cd example-app).
 - [start server by using ](php artisan serve).
