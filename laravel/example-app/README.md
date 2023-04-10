@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## How to Run Laravel
+
+- [go to this link for reference : ](https://laravel.com/docs/9.x/installation#getting-started-on-windows).
+- [run cd [filename] ](cd example-app).
+- [start server by using ](php artisan serve).
+- [stop server by using ](ctrl + C ).
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
