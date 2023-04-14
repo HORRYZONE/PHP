@@ -34,12 +34,12 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="assets/img/dann-pfp.jpg" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
                       <div class="about-info">
-                        <p><span class="title-s">Name: </span> <span>Morgan Freeman</span></p>
+                        <p><span class="title-s">Name: </span> <span>Nor Danish Fitri Bin Nor Syamaiza</span></p>
                         <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
                         <p><span class="title-s">Email: </span> <span>contact@example.com</span></p>
                         <p><span class="title-s">Phone: </span> <span>(617) 557-0089</span></p>
@@ -441,7 +441,7 @@
                 <div class="swiper-slide">
                   <div class="testimonial-box">
                     <div class="author-test">
-                      <img src="assets/img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                      <img src="assets/img/dann-pfp.jpg" alt="" class="rounded-circle b-shadow-a">
                       <span class="author">Xavi Alonso</span>
                     </div>
                     <div class="content-test">
@@ -517,7 +517,7 @@
               <div class="card-footer">
                 <div class="post-author">
                   <a href="#">
-                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <img src="assets/img/dann-pfp.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Morgan Freeman</span>
                   </a>
                 </div>
@@ -548,7 +548,7 @@
               <div class="card-footer">
                 <div class="post-author">
                   <a href="#">
-                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <img src="assets/img/dann-pfp.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Morgan Freeman</span>
                   </a>
                 </div>
@@ -579,7 +579,7 @@
               <div class="card-footer">
                 <div class="post-author">
                   <a href="#">
-                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <img src="assets/img/dann-pfp.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Morgan Freeman</span>
                   </a>
                 </div>
